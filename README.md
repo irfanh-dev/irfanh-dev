@@ -13,7 +13,7 @@ I identify a problem and build around it, step by step. My goal is to create too
 * Browser-based utilities for organizing files, text, and workflows.
 * Scripts that solve repetitive or time-consuming problems.
 * Projects that fundamentally improve how we work or manage information.
----
+
 **What I Use**
 * HTML/CSS/JS
 * Python
